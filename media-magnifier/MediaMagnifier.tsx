@@ -9,7 +9,6 @@ import {
   useRef,
   useState,
 } from 'react'
-// Somehow build does not see .d.ts file for this library
 // @ts-ignore
 import type { ChildrenComponentProps } from 'react-input-position-v2'
 // @ts-ignore
